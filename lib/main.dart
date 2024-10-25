@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       builder: (context, state) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: "Coffee Bliss",
+          title: "Coffee Blissq",
           theme: state.themeData.copyWith(
             iconTheme: IconThemeData(color: state.iconColor), // Set icon colorcccc dddfor the theme
             bottomNavigationBarTheme: BottomNavigationBarThemeData(
